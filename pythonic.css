@@ -1,0 +1,39 @@
+section {
+  height: 700px;
+  width: 100%;
+}
+
+section .header {
+  display: block;
+}
+
+.i1 {
+  color: green;
+  font-size: 50px;
+  float: left;
+  font-family: sans-serif;
+}
+.i2 {
+  color: green;
+  font-size: 50px;
+  float: left;
+
+  margin-top: 100px;
+  font-family: sans-serif;
+  margin-left: 25px;
+}
+
+.i3 {
+  color: green;
+  font-size: 50px;
+  float: right;
+  margin-top: 250px;
+  font-family: sans-serif;
+}
+img {
+  margin-top: 0px;
+  float: left;
+  margin-left: 30px;
+  height: 300px;
+  width: 300px;
+}
